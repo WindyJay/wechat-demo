@@ -1,0 +1,34 @@
+[
+    {
+        "id": 147,
+        "name": "情人节专场",
+        "orders": 6,
+        "picurl": "http://image.huanqiuxiaozhen.com/%E7%84%A6%E7%82%B9%E5%9B%BE/2017_2_9_1486609816017",
+        "targeturl": "https://mp.weixin.qq.com/s/JC7102k5jouliyp7IG8TJg",
+        "distributorid": "all"
+    },
+    {
+        "id": 130,
+        "name": "围兜",
+        "orders": 3,
+        "picurl": "http://image.huanqiuxiaozhen.com/%E7%84%A6%E7%82%B9%E5%9B%BE/2016_9_18_1474194498240",
+        "targeturl": "http://wx.huanqiuxiaozhen.com/search-result.html?keywords=%E5%9B%B4%E5%85%9C",
+        "distributorid": "all"
+    },
+    {
+        "id": 146,
+        "name": "清仓",
+        "orders": 2,
+        "picurl": "http://image.huanqiuxiaozhen.com/%E7%84%A6%E7%82%B9%E5%9B%BE/2017_2_6_1486352315488",
+        "targeturl": "http://wx.huanqiuxiaozhen.com/search-result.html?keywords=%E6%B8%85%E4%BB%93",
+        "distributorid": "all"
+    },
+    {
+        "id": 129,
+        "name": "绘本",
+        "orders": 1,
+        "picurl": "http://image.huanqiuxiaozhen.com/%E7%84%A6%E7%82%B9%E5%9B%BE/2016_9_18_1474194376998",
+        "targeturl": "http://mp.weixin.qq.com/s?__biz=MzI4NjA0NDY5MA==&mid=2651959962&idx=2&sn=1d21dbfcf1c7c42687981f56262ba60b&scene=4#wechat_redirect",
+        "distributorid": "all"
+    }
+]
