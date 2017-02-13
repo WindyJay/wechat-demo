@@ -12,15 +12,15 @@
 
 ### 项目截图:
 
-<img src="https://github.com/WindyJay/wechat-demo/screenshots/screenshorts-01.png" width="320px" style="display:inline;">
+<img src="https://github.com/WindyJay/wechat-demo/blob/master/screenshots/screenshorts-01.png" width="320px" style="display:inline;">
 
-<img src="https://github.com/WindyJay/wechat-demo/screenshots/screenshorts-02.png" width="320px" style="display:inline;">
+<img src="https://github.com/WindyJay/wechat-demo/blob/master/screenshots/screenshorts-02.png" width="320px" style="display:inline;">
 
-<img src="https://github.com/WindyJay/wechat-demo/screenshots/screenshorts-03.png" width="320px" style="display:inline;">
+<img src="https://github.com/WindyJay/wechat-demo/blob/master/screenshots/screenshorts-03.png" width="320px" style="display:inline;">
 
-<img src="https://github.com/WindyJay/wechat-demo/screenshots/screenshorts-04.png" width="320px" style="display:inline;">
+<img src="https://github.com/WindyJay/wechat-demo/blob/master/screenshots/screenshorts-04.png" width="320px" style="display:inline;">
 
-<img src="https://github.com/WindyJay/wechat-demo/screenshots/screenshorts-05.png" width="320px" style="display:inline;">
+<img src="https://github.com/WindyJay/wechat-demo/blob/master/screenshots/screenshorts-05.png" width="320px" style="display:inline;">
 
 ### 开发环境：
 微信web开发者工具 v0.14.140900
